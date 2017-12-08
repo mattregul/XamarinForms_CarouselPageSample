@@ -10,8 +10,13 @@ Using Xamarin Forms to demonstrate the Carousel Page
 <img src="https://github.com/mattregul/XamarinForms_CarouselPageSample/blob/master/Screenshots/screenshot2.png">
 
 <h5>Docs & Samples</h5>
+
 - https://developer.xamarin.com/guides/xamarin-forms/user-interface/navigation/carousel-page/
+
 - https://developer.xamarin.com/api/type/Xamarin.Forms.CarouselPage/
+
 - https://developer.xamarin.com/samples/xamarin-forms/Navigation/CarouselPage/
+
 - https://developer.xamarin.com/api/type/Xamarin.Forms.ContentPage/
+
 - https://developer.xamarin.com/api/type/System.Collections.Generic.Dictionary%3CTKey,TValue%3E/
